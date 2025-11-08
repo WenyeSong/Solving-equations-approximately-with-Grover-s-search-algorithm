@@ -1,5 +1,7 @@
 # Solving-equations-approximately-with-Grover-s-search-algorithm
 
+This research was conducted with Dr. Jed Brody at Emory University.
+
 Abstract:
 
 To enrich curricular materials for quantum computing education, we show how Grover’s algorithm can be used to find approximate solutions to algebraic and transcendental equations. This significantly expands the range of exercises based on Grover’s algorithm, which typically solves problems with exact binary solutions. These exercises teach and unify a diverse skillset, including binary representation of fractional and negative numbers, implementation of Boolean operations with quantum gates, and comprehensive design of quantum circuits to implement Grover’s algorithm.
